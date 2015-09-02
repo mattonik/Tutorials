@@ -1,0 +1,493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"endfor",
+				"endforeach〔keyword〕"
+			],
+			[
+				"endfo",
+				"endforeach〔keyword〕"
+			],
+			[
+				"sign",
+				"$signups〔variable〕"
+			],
+			[
+				"login",
+				"login_string"
+			],
+			[
+				"logi",
+				"$login_string〔variable〕"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"no",
+				"$notify〔variable〕"
+			],
+			[
+				"storage_",
+				"storage_files"
+			],
+			[
+				"legal",
+				"legalCases〔variable〕"
+			],
+			[
+				"ne",
+				"newItems"
+			],
+			[
+				"ite",
+				"itemsAll"
+			],
+			[
+				"items",
+				"itemsAll"
+			],
+			[
+				"item",
+				"itemsCount〔variable〕"
+			],
+			[
+				"sorte",
+				"sortedItems"
+			],
+			[
+				"sor",
+				"sortItems〔function〕"
+			],
+			[
+				"disp",
+				"dispositionApproval〔variable〕"
+			],
+			[
+				"s",
+				"switchEnv〔function〕"
+			],
+			[
+				"piwik",
+				"piwikSiteId"
+			],
+			[
+				"rsd",
+				"rsdEnv"
+			],
+			[
+				"swi",
+				"switchEnv"
+			],
+			[
+				"piw",
+				"piwikSiteId"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "RactiveEventsBulletin/code/index.html",
+			"settings":
+			{
+				"buffer_size": 2717,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "RactiveEventsBulletin/code/app.js",
+			"settings":
+			{
+				"buffer_size": 788,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/martinpuskac/Work/Personal/Tutorials/RactiveEventsBulletin/code",
+		"/Users/martinpuskac/Work/Personal/Tutorials/RactiveEventsBulletin/code/bower_components",
+		"/Users/martinpuskac/Work/Personal/Tutorials/RactiveEventsBulletin/code/bower_components/bootstrap/dist",
+		"/Users/martinpuskac/Work/Personal/Tutorials/RactiveEventsBulletin/code/bower_components/bootstrap/dist/css",
+		"/Users/martinpuskac/Work/Personal/Tutorials/RactiveEventsBulletin/code/bower_components/ractive-events-tap/dist"
+	],
+	"file_history":
+	[
+		"/Users/martinpuskac/Work/Personal/Tutorials/RactiveEventsBulletin/code/bower.json",
+		"/Users/martinpuskac/Work/Personal/Ranc/Web/html/themes/ranc/assets/js/vendor/jquery.fileupload.js",
+		"/Users/martinpuskac/Work/Personal/Ranc/Web/html/themes/ranc/assets/js/upload.js",
+		"/Users/martinpuskac/Work/Personal/Ranc/Web/html/themes/ranc/views/preteky.php",
+		"/Users/martinpuskac/Work/Personal/Ranc/Web/html/themes/ranc/views/admin/index.php",
+		"/Users/martinpuskac/Work/Personal/Ranc/Web/html/storage/signups.ib",
+		"/Users/martinpuskac/Work/Personal/Ranc/Web/html/themes/ranc/views/layout.php",
+		"/Users/martinpuskac/Work/Personal/Ranc/Web/html/themes/ranc/assets/less/ranc.less",
+		"/Users/martinpuskac/Work/Personal/Ranc/Web/html/themes/ranc/views/galeria.php",
+		"/Users/martinpuskac/Work/Personal/Ranc/Web/html/storage/galleries.ib",
+		"/Users/martinpuskac/Work/Recall/Widgets/widgets/legalCases/legalCasesRecall.html",
+		"/Users/martinpuskac/Work/Recall/Widgets/widgets/legalCases/legalCases.js",
+		"/Users/martinpuskac/Work/Recall/Widgets/widgets/legalSearch/legalSearch.js",
+		"/Users/martinpuskac/Work/Recall/Widgets/widgets/legalSearch/legalSearchRecall.html",
+		"/Users/martinpuskac/Work/Resoucres/stgw.txt",
+		"/Users/martinpuskac/Work/Recall/Widgets/widgets/dispositionApproval/dispositionApprovalRecall.html",
+		"/Users/martinpuskac/Work/Recall/Widgets/js/helpers.js",
+		"/Users/martinpuskac/Work/Recall/Widgets/js/rsd.js",
+		"/Users/martinpuskac/Work/Recall/Widgets/widgets/dispositionApproval/dispositionApproval.js",
+		"/Users/martinpuskac/Work/Recall/Widgets/widgets/publicView/publicView.js",
+		"/Users/martinpuskac/Work/Recall/Widgets/widgets/publicView/publicViewRecall.html",
+		"/Users/martinpuskac/Work/Recall/Widgets/gulpfile.js",
+		"/Users/martinpuskac/Work/Recall/Widgets/dist/production/dispositionApproval/dispositionApproval.js",
+		"/Users/martinpuskac/Work/Recall/Widgets/dist/production/legalCases/legalCases.js",
+		"/Users/martinpuskac/Work/Vagrant/mt344/Vagrantfile",
+		"/Users/martinpuskac/Work/Recall/Widgets/config.json",
+		"/Users/martinpuskac/Work/Recall/Widgets/dist/dev/rsd.min.js",
+		"/Users/martinpuskac/Work/Recall/Widgets/dist/dev/index.html",
+		"/Users/martinpuskac/Work/Recall/Widgets/widgets/activityStream/activityStreamRecall.html",
+		"/Users/martinpuskac/Work/Recall/Widgets/widgets/activityStream/activityStream.js",
+		"/Users/martinpuskac/Work/Recall/Widgets/widgets/activityStream/activityStream.less",
+		"/Users/martinpuskac/Work/Recall/Widgets/dist/dev/activityStream/activityStream.js",
+		"/Users/martinpuskac/Work/Recall/Widgets/dist/dev/env.js",
+		"/Users/martinpuskac/Work/Recall/Widgets/templates/ignore.json"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"></",
+			"recordTypes",
+			"merge"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "RactiveEventsBulletin/code/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1893,
+								1893
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1394.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "RactiveEventsBulletin/code/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								784,
+								784
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ractive-events-bulletin.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,18 @@
+{
+  "name": "RactiveEventsBulletin",
+  "version": "0.0.1",
+  "authors": [
+    "Martin Puskac <mattonik@mattonik.sk>"
+  ],
+  "description": "Code for tutorial about building simple events bulletin board with Ractivejs",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "http://mattonik.sk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
