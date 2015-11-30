@@ -1,3 +1,8 @@
+#Úvod
+V dnešnej dobe už máme k dispozícii veľké množstvo JavaScript frameworkov, napríklad AngularJS, ktoré nám umožňujú programovať rozsiahle single-page aplikácia pomerne jednoducho.
+
+Niekedy však nepotrebujeme všetko, čo tieto frameworky ponúkajú a dnes si preto predstavíme Ractive.js.
+
 ##Základná HTML šablóna
 
 	<!-- index.html -->
